@@ -1,4 +1,4 @@
-A streamlit app for detecting three kinds of Apple Leaf Diseases (Scab, Cedar Rust, and Black Dot). Provide an image and brief description of the symptoms to diagnose the disease.
+A streamlit app for detecting three kinds of Apple Leaf Diseases (Scab, Cedar Rust, and Black Dot). Provide an image and brief description of the symptoms to diagnose the disease. App deployed [here](https://leafdiseasedetection-fgfefazhjqcy8ym4ubqynj.streamlit.app/)
 
 ## Clone the repository
 ```
